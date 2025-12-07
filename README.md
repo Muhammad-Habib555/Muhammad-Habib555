@@ -29,9 +29,19 @@ I am an **AI & Machine Learning Engineer** skilled in building **end-to-end prod
 ## 💎 Tech Stack — **Sharp, Clean, Animated**
 
 <p align="center">
+  <!-- Line 1: Core AI & ML -->
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,opencv,numpy,pandas&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,mysql,vscode,matplotlib,seaborn,postman,linux&theme=dark" />
+  
+  <!-- Line 2: Dev Tools & Visualization -->
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,mysql,vscode,matplotlib,seaborn,postman,linux&theme=dark" /><br>
+  
+  <!-- Line 3: AI Platforms & Automation -->
+  <img src="https://skillicons.dev/icons?i=openai,langchain,n8n&theme=dark" />
+  <!-- For Geni and Agentic AI, skillicons.dev may not have icons, you can add them via custom images like below -->
+  <img src="https://yourcustomcdn.com/icons/geni.png" width="40" height="40" />
+  <img src="https://yourcustomcdn.com/icons/agentic.png" width="40" height="40" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=3AFF9B&width=850&center=true&vCenter=true&lines=Machine+Learning+|+Deep+Learning+|+Computer+Vision;Generative+AI+|+Agents;FastAPI+%2B+Streamlit+Deployment+Expertise;Data+Pipelines+|+EDA+|+Model+Serving;Always+Learning+|+Always+Improving+🚀" />
