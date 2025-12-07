@@ -1,122 +1,103 @@
-<!-- ========================================================= -->
-<!-- 🔥 PORTFOLIO BANNER -->
-<!-- ========================================================= -->
-
+<!-- =================================================================================== -->
+<!-- 🚀 TITLE BANNER -->
+<!-- =================================================================================== -->
 <h1 align="center">
-🎯 <span style="color:#00E5FF;">Muhammad Habib</span> — AI & ML Explorer  
+  👋 Hi, I'm <span style="color:#00E7FF;">Muhammad Habib</span>
 </h1>
+<h3 align="center">Data Analyst → Aspiring Machine Learning Engineer</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3300&pause=600&color=00E7FF&center=true&vCenter=true&width=920&lines=Data+Analyst+→+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Generative+AI+%7C+Agentic+AI+%7C+LLMs;Learning+Daily+—+Building+Future+AI" />
-</p>
-
-<p align="center">🌍 Abbottabad, Pakistan | 🔥 Learning → Creating → Evolving</p>
+<p align="center">🌍 Abbottabad, Pakistan | AI • ML • DL • CV • NLP • GenAI • Agents</p>
 
 ---
 
-<!-- ========================================================= -->
-<!-- 💡 ABOUT -->
-<!-- ========================================================= -->
+<!-- =================================================================================== -->
+<!-- 🚀 ABOUT ME -->
+<!-- =================================================================================== -->
 
-## 💡 About Me
+## 🚀 About Me  
+I’m passionate about **turning data into insights** and building **intelligent systems**.  
+Currently working in:  
+- 📊 Data Analysis  
+- 🤖 Machine Learning  
+- 🧠 Deep Learning  
+- 👁 Computer Vision  
+- 📝 NLP  
+- 🔮 Generative & Agentic AI  
 
-I am **Muhammad Habib**, actively exploring the world of **Machine Learning, Deep Learning, NLP, Computer Vision & Generative AI**.  
-My objective is to build **end-to-end intelligent systems** capable of solving real-world problems using data-driven AI.
-
-🔹 Curious learner | 🔹 Model builder | 🔹 Future ML Engineer  
-I believe **AI is the tool that will reshape the world — and I want to help build it.**
-
----
-
-<!-- ========================================================= -->
-<!-- ✨ GLOW-THEME TECH BADGES -->
-<!-- ========================================================= -->
-
-<h2 align="center">✨ Tech Stack & Skills</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,opencv,git,github,react,nodejs,js,mysql,mongodb,docker,vscode&theme=dark" width="90%" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=📊+Data+Analysis;🤖+Machine+Learning;🧠+Deep+Learning;👁️+Computer+Vision;📝+NLP;📈+Time+Series+Analysis;🔮+Generative+AI+%2B+LLMs;⚙+Agentic+AI+Systems+%2F+Multi-Agent+Workflows" />
-</p>
+💡 I love solving real-world problems with AI and aim to become a **Machine Learning Engineer**.
 
 ---
 
-<!-- ========================================================= -->
-<!-- 🖼 ANIMATED PROJECT GALLERY -->
-<!-- ========================================================= -->
+<!-- =================================================================================== -->
+<!-- 🛠 SKILLS — SUPER STYLISH VERSION -->
+<!-- =================================================================================== -->
 
-<h2 align="center">🧩 Highlighted Projects</h2>
+<h2 align="center">⚡ Skills & Tech Stack</h2>
+
 <p align="center">
-<table>
-<tr>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,opencv,git,github,fastapi,streamlit,docker,mysql,sqlite,vscode&theme=dark&perline=7" />
+</p>
 
-<td align="center">
-<b>LLM RAG Question Answering</b><br>
-<img src="https://raw.githubusercontent.com/ElantriX/ElantriX/master/assets/ai.gif" width="230"><br>
-<sub>LangChain | Vector DB | Embeddings</sub>
-</td>
-
-<td align="center">
-<b>YOLO Object Detection App</b><br>
-<img src="https://github.com/kyechan99/capsule-render/raw/master/assets/sakamoto.gif" width="230"><br>
-<sub>OpenCV | PyTorch | Real-time</sub>
-</td>
-
-<td align="center">
-<b>Time Series Forecasting Tool</b><br>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/earth.gif" width="230"><br>
-<sub>LSTM | Prophet | Data-Driven Prediction</sub>
-</td>
-
-</tr>
-</table>
+<!-- Animated Skills Rolling Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E7FF&size=22&center=true&vCenter=true&width=750&pause=800&lines=📊+Data+Analysis;🤖+Machine+Learning;🧠+Deep+Learning;👁️+Computer+Vision;📝+NLP;📈+Time+Series+Forecasting;🔮+Generative+AI+%26+LLMs;⚙+Agentic+AI+Systems" />
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!-- 📊 AUTO-MOVING GITHUB STATS -->
-<!-- ========================================================= -->
+<!-- =================================================================================== -->
+<!-- 📈 LEARNING TIMELINE -->
+<!-- =================================================================================== -->
 
-<h2 align="center">📊 GitHub Stats (Live)</h2>
+## 📈 My Learning Journey  
+🌱 Started with **Data Analysis**  
+➡ Progressed into **Machine Learning**  
+🚀 Now exploring **Deep Learning, NLP, CV & GenAI**  
+🎯 Aim: Build real-world production AI systems  
+
+---
+
+<!-- =================================================================================== -->
+<!-- 🔥 STATS + ACTIVITY GRAPH (NO ERROR VERSION) -->
+<!-- =================================================================================== -->
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%">
+
+<!-- Stats Card -->
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true">
+
+<!-- Streak Card -->
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true">
 </p>
 
+<!-- ⚡ Activity Graph (Fixed) -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="45%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="95%">
+</p>
+
+<!-- Fallback if graph fails -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="95%">
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!-- 🔥 LIVE ACTIVITY GRAPH -->
-<!-- ========================================================= -->
-
-<h2 align="center">🔥 Contribution Activity Timeline</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="96%">
-</p>
-
----
-
-<!-- ========================================================= -->
-<!-- 🔗 SOCIAL LINKS -->
-<!-- ========================================================= -->
+<!-- =================================================================================== -->
+<!-- 🔗 CONTACT -->
+<!-- =================================================================================== -->
 
 <h2 align="center">📫 Connect With Me</h2>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-habib-369324399/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/muhammadhabib678"><img src="https://img.shields.io/badge/Kaggle-35A5FF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhammad-habib-369324399/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/muhammadhabib678">
+    <img src="https://img.shields.io/badge/Kaggle-%2301A9DB.svg?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
 </p>
 
 ---
 
-<h3 align="center">🌟 "Data + AI = Intelligent Tomorrow" 🌟</h3>
+<h3 align="center">⭐ “Data + AI = Smarter Decisions.” ⭐</h3>
