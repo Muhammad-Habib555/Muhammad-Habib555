@@ -29,8 +29,8 @@ I am an **AI & Machine Learning Engineer** skilled in building **end-to-end prod
 ## 💎 Tech Stack — **Sharp, Clean, Animated**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,opencv,numpy,pandas,matplotlib,seaborn&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,mysql,vscode,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,opencv,numpy,pandas&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,mysql,vscode,matplotlib,seaborn,postman,linux&theme=dark" />
 </p>
 
 <p align="center">
