@@ -30,16 +30,16 @@ I am an **AI & Machine Learning Engineer** skilled in building **end-to-end prod
 
 <p align="center">
   <!-- Line 1: Core AI & ML -->
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,opencv,numpy,pandas&theme=dark" /><br>
-  
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,opencv,numpy,pandas&theme=dark" style="margin:5px;" /><br>
+
   <!-- Line 2: Dev Tools & Visualization -->
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,mysql,vscode,matplotlib,seaborn,postman,linux&theme=dark" /><br>
-  
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,mysql,vscode,matplotlib,seaborn,postman,linux&theme=dark" style="margin:5px;" /><br>
+
   <!-- Line 3: AI Platforms & Automation -->
-  <img src="https://skillicons.dev/icons?i=openai,langchain,n8n&theme=dark" />
-  <!-- For Geni and Agentic AI, skillicons.dev may not have icons, you can add them via custom images like below -->
-  <img src="https://yourcustomcdn.com/icons/geni.png" width="40" height="40" />
-  <img src="https://yourcustomcdn.com/icons/agentic.png" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=openai,langchain,n8n&theme=dark" style="margin:5px;" />
+  <!-- Custom icons for Geni and Agentic AI -->
+  <img src="https://cdn.jsdelivr.net/gh/username/icons/geni.png" width="40" height="40" style="margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/username/icons/agentic.png" width="40" height="40" style="margin:5px;" />
 </p>
 
 
