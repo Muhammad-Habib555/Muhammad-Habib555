@@ -30,14 +30,18 @@ I am an **AI & Machine Learning Engineer** skilled in building **end-to-end prod
 
 <p align="center">
   <!-- Line 1: Core AI & ML -->
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,opencv,numpy,pandas&theme=dark" style="margin:10px;" /><br>
+  <img src="skillicons.dev" style="margin:10px;" /><br>
 
   <!-- Line 2: Dev Tools & Visualization -->
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,mysql,vscode,matplotlib,seaborn,postman,linux&theme=dark" style="margin:10px;" /><br>
+  <img src="skillicons.dev" style="margin:10px;" /><br>
 
   <!-- Line 3: AI Platforms & Automation -->
-  <img src="https://skillicons.dev/icons?i=openai,langchain,n8n&theme=dark" style="margin:10px;" />
+  <img src="skillicons.dev" style="margin:10px;" />
 </p>
+Use code with caution.
+
+
+
 
 
 <p align="center">
