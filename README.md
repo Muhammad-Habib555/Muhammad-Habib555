@@ -25,11 +25,6 @@ I am an **AI & Machine Learning Engineer** skilled in building **end-to-end prod
 > **My ambition:** Build AI that actually *works*, scales, and delivers business value.
 
 ---
-
-## 💎 Tech Stack — **Sharp, Clean, Animated**
-
-### 💎 Tech Stack — Sharp, Clean, Animated
-
 ### 💎 Tech Stack — Sharp, Clean, Animated
 
 <p align="center">
@@ -37,20 +32,14 @@ I am an **AI & Machine Learning Engineer** skilled in building **end-to-end prod
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" width="50" height="50" style="margin:10px;" /><br>
-
-  <!-- EDA -->
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="50" height="50" style="margin:10px;" /><br>
-
-  <!-- Dashboard / App Generation -->
+  <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=plotly" alt="Plotly" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=dash" alt="Dash" width="50" height="50" style="margin:10px;" /><br>
-
-  <!-- Full Stack / Gen AI / Agentic AI -->
+  <img src="https://skillicons.dev/icons?i=dash" alt="Dash" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="50" height="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="margin:10px;" />
