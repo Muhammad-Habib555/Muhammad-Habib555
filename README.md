@@ -28,24 +28,14 @@ I am an **AI & Machine Learning Engineer** skilled in building **end-to-end prod
 
 ## 💎 Tech Stack — **Sharp, Clean, Animated**
 
+### 💎 Tech Stack — Sharp, Clean, Animated
+
 <p align="center">
-  <!-- Line 1: Core AI & ML -->
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=pycaret" alt="PyCaret" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="margin:10px;" /><br>
-
-  <!-- Line 2: Dev Tools & Visualization -->
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" style="margin:10px;" /><br>
-
-  <!-- Line 3: AI Platforms & Automation -->
-  <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=zapier" alt="Zapier" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=airtable" alt="Airtable" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" style="margin:10px;" />
 </p>
-
-Use code with caution.
 
 
 
