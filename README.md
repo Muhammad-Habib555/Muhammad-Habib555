@@ -69,6 +69,18 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 <div style="width: 100%; height: 4px; background-color: #FF4500; margin: 25px 0; border-radius: 2px;"></div>
 
+## 📈 My Contribution History - <span style="color: #FF33AA;">Yearly Impact</span>
+
+| Year | Commits | Repositories | Stars Gained |
+| :---: | :---: | :---: | :---: |
+| <span style="color: #00FFFF;">**2025 (Current)**</span> | **[Estimate Commits]** | **[Estimate Repos]** | **[Estimate Stars]** |
+| <span style="color: #FFFF00;">**2026 (Future)**</span> | *The AI journey continues...* | *Scaling up!* | *To the moon!* |
+| <span style="color: #FF6600;">**2027 (Future)**</span> | *Bigger models, cleaner code.* | *Global solutions.* | *Massive impact.* |
+
+> 🌟 *Update the bracketed values above as you achieve your GitHub milestones!*
+
+<div style="width: 100%; height: 4px; background-color: #FF4500; margin: 25px 0; border-radius: 2px;"></div>
+
 ## 📊 My GitHub Stats - <span style="color: #00FFFF;">Visualizing Impact</span>
 
 <div align="center">
