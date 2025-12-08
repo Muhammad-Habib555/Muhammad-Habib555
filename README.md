@@ -3,89 +3,76 @@
 <!-- =================================================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=4000&color=00E8FF&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Muhammad+Habib;AI+Engineer+|+Machine+Learning+Developer;Computer+Vision+|+Deep+Learning;Generative+AI+|+Agents+|+Data+Pipelines;Turning+Data+Into+Real+AI+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4200&color=00F2FF&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Muhammad+Habib;AI+Engineer+|+ML+Developer;Computer+Vision+%7C+Deep+Learning;Generative+AI+%7C+Agents+%7C+MLOps;Building+Real-World+AI+Systems+🚀" />
 </p>
 
-<h1 align="center">⚡ AI Engineer • ML Developer • Generative AI Builder</h1>
-<p align="center">🇵🇰 Pakistan | Passionate About Real-World AI Systems</p>
+<h1 align="center">⚡ AI Engineer • Machine Learning Developer • Generative AI Builder</h1>
+<p align="center">🇵🇰 Pakistan | Passionate About Practical, Scalable AI Systems</p>
 
 ---
 
 ## 🚀 About Me
 
-I am an **AI & Machine Learning Engineer** skilled in building **end-to-end production-ready Intelligence**.
+I am an **AI & Machine Learning Engineer** focused on building **end-to-end production-ready Intelligence** — from data pipelines to deployment.
 
-💠 I work on:  
+💠 **I specialize in:**  
 - 🤖 Machine Learning & Deep Learning  
 - 👁 Computer Vision  
-- 🔥 FastAPI + Streamlit AI Deployment  
-- 📊 Data Analytics & Real-time Dashboards  
-- ⚙ Model Serving, Agents, MLOps (Basics)
+- 🔥 FastAPI + Streamlit Deployment  
+- 📊 EDA, Feature Engineering & Real-Time Dashboards  
+- ⚙ Productionizing ML, Agents, Model Serving  
 
-> **My ambition:** Build AI that actually *works*, scales, and delivers business value.
+> **My mission:** Build AI systems that *work*, scale, and solve real business problems.
 
 ---
-### 💎 Tech Stack — Sharp, Clean, Animated
+
+## 💎 Tech Stack — Clean, Modern & Animated
 
 <p align="center">
-  <!-- ML / DL -->
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=plotly" alt="Plotly" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=dash" alt="Dash" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv" height="50" />
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,dash,plotly" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=openai" height="50" />
 </p>
 
-
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3AFF9B&width=850&center=true&vCenter=true&lines=Machine+Learning+|+Deep+Learning+|+Computer+Vision;Generative+AI+|+Agents;FastAPI+%2B+Streamlit+Deployment+Expertise;Data+Pipelines+|+EDA+|+Model+Serving;Always+Learning+|+Always+Improving+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3AFF9B&width=900&center=true&vCenter=true&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+Agents+%7C+LLMs;FastAPI+%2B+Streamlit+Deployments;Data+Pipelines+%7C+EDA+%7C+Model+Serving;Always+Learning+%7C+Always+Building+🚀" />
 </p>
 
 ---
 
-## 🏆 Featured Projects (Pinned With Cards)
+## 🏆 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Muhammad-Habib555/pharmacy_dataset_dashboard">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=pharmacy_dataset_dashboard&theme=tokyonight&border_color=00FFE6&border_radius=12"></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=pharmacy_dataset_dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
 
 <a href="https://github.com/Muhammad-Habib555/-Superstore-E-Commerce-Dashboard">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Superstore-E-Commerce-Dashboard&theme=tokyonight&border_color=00FFE6&border_radius=12"></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Superstore-E-Commerce-Dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
 
 <a href="https://github.com/Muhammad-Habib555/-Real-Time-Crypto-Dashboard">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Real-Time-Crypto-Dashboard&theme=tokyonight&border_color=00FFE6&border_radius=12"></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Real-Time-Crypto-Dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
 
 <a href="https://github.com/Muhammad-Habib555/Pakistan-Population-dashboard-1998">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=Pakistan-Population-dashboard-1998&theme=tokyonight&border_color=00FFE6&border_radius=12"></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=Pakistan-Population-dashboard-1998&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
 
 <a href="https://github.com/Muhammad-Habib555/UCI_Heart_Disease_prediction_App">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=UCI_Heart_Disease_prediction_App&theme=tokyonight&border_color=00FFE6&border_radius=12"></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=UCI_Heart_Disease_prediction_App&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats (Animated + Auto Updating)
+## 📊 My GitHub Stats (Animated)
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Habib555&show_icons=true&theme=react&hide_border=true">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Habib555&theme=react&hide_border=true">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Habib555&theme=react-dark&area=true&hide_border=true">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Habib555&show_icons=true&theme=react&hide_border=true&border_radius=14" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Habib555&theme=react&hide_border=true&border_radius=14" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Habib555&theme=react-dark&area=true&hide_border=true&radius=14" />
 
 </div>
 
@@ -94,8 +81,13 @@ I am an **AI & Machine Learning Engineer** skilled in building **end-to-end prod
 ## 🔗 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-habib-369324399/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.kaggle.com/muhammadhabib678"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"></a>
+<a href="https://www.linkedin.com/in/muhammad-habib-369324399/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://www.kaggle.com/muhammadhabib678">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle">
+</a>
 </p>
 
-<h3 align="center">⚡ AI will not replace humans — but humans using AI will.</h3>
+<h3 align="center">⚡ AI won't replace humans — but humans using AI will.</h3>
+
