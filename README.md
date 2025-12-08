@@ -9,7 +9,7 @@
 </h1>
 <p align="center">🇵🇰 **Pakistan** | Passionate About **Practical, Scalable AI Systems** 💡</p>
 
-<div style="width: 100%; height: 3px; background-color: #FF6600; margin: 20px 0;"></div>
+<div style="width: 100%; height: 4px; background-color: #FF4500; margin: 25px 0; border-radius: 2px;"></div>
 
 ## 🚀 About Me - <span style="color: #FF00FF;">The AI Builder</span>
 
@@ -24,7 +24,7 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 > 🌟 **My mission:** Build AI systems that <span style="color: #FFCC00;">*work*, scale, and solve real business problems</span> with brilliant efficiency.
 
-<div style="width: 100%; height: 3px; background-color: #FF6600; margin: 20px 0;"></div>
+<div style="width: 100%; height: 4px; background-color: #FF4500; margin: 25px 0; border-radius: 2px;"></div>
 
 ## 💎 Tech Stack - <span style="color: #00FF00;">My Toolkit</span> 
 
@@ -39,7 +39,7 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
   <img src="https://readme-typing-svg.herokuapp.com?color=FF6600&width=900&center=true&vCenter=true&lines=✨+Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;💖+Generative+AI+%7C+Agents+%7C+LLMs;🚀+FastAPI+%2B+Streamlit+Deployments;💡+Data+Pipelines+%7C+EDA+%7C+Model+Serving;⭐+Always+Learning+%7C+Always+Building+The+Future" />
 </p>
 
-<div style="width: 100%; height: 3px; background-color: #FF6600; margin: 20px 0;"></div>
+<div style="width: 100%; height: 4px; background-color: #FF4500; margin: 25px 0; border-radius: 2px;"></div>
 
 ## 🏆 Featured Projects - <span style="color: #FFCC00;">Bright Portfolio</span>
 
@@ -67,7 +67,7 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 </div>
 
-<div style="width: 100%; height: 3px; background-color: #FF6600; margin: 20px 0;"></div>
+<div style="width: 100%; height: 4px; background-color: #FF4500; margin: 25px 0; border-radius: 2px;"></div>
 
 ## 📊 My GitHub Stats - <span style="color: #00FFFF;">Visualizing Impact</span>
 
@@ -81,7 +81,7 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 </div>
 
-<div style="width: 100%; height: 3px; background-color: #FF6600; margin: 20px 0;"></div>
+<div style="width: 100%; height: 4px; background-color: #FF4500; margin: 25px 0; border-radius: 2px;"></div>
 
 ## 🔗 Connect With Me - <span style="color: #FFFF00;">Let's Collaborate</span>  
 
