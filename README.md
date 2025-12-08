@@ -29,10 +29,29 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 ## 💎 Tech Stack — Clean, Modern & Animated
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv" height="50" />
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,dash,plotly" height="50" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50" />
-  <img src="https://skillicons.dev/icons?i=openai" height="50" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv&theme=light" height="50">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,streamlit,dash,plotly&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,streamlit,dash,plotly&theme=light">
+    <img src="https://skillicons.dev/icons?i=fastapi,streamlit,dash,plotly&theme=light" height="50">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" height="50">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=openai&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=openai&theme=light">
+    <img src="https://skillicons.dev/icons?i=openai&theme=light" height="50">
+  </picture>
 </p>
 
 <p align="center">
@@ -45,34 +64,69 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 <div align="center">
 
-<a href="https://github.com/Muhammad-Habib555/pharmacy_dataset_dashboard">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=pharmacy_dataset_dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
+<!-- Project 1 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=pharmacy_dataset_dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=pharmacy_dataset_dashboard&theme=default&border_radius=14">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=pharmacy_dataset_dashboard&theme=default">
+</picture>
 
-<a href="https://github.com/Muhammad-Habib555/-Superstore-E-Commerce-Dashboard">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Superstore-E-Commerce-Dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
+<!-- Project 2 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Superstore-E-Commerce-Dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Superstore-E-Commerce-Dashboard&theme=default&border_radius=14">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Superstore-E-Commerce-Dashboard&theme=default">
+</picture>
 
-<a href="https://github.com/Muhammad-Habib555/-Real-Time-Crypto-Dashboard">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Real-Time-Crypto-Dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
+<!-- Project 3 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Real-Time-Crypto-Dashboard&theme=tokyonight&border_color=00FFE6&border_radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Real-Time-Crypto-Dashboard&theme=default&border_radius=14">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=-Real-Time-Crypto-Dashboard&theme=default">
+</picture>
 
-<a href="https://github.com/Muhammad-Habib555/Pakistan-Population-dashboard-1998">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=Pakistan-Population-dashboard-1998&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
+<!-- Project 4 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=Pakistan-Population-dashboard-1998&theme=tokyonight&border_color=00FFE6&border_radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=Pakistan-Population-dashboard-1998&theme=default&border_radius=14">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=Pakistan-Population-dashboard-1998&theme=default">
+</picture>
 
-<a href="https://github.com/Muhammad-Habib555/UCI_Heart_Disease_prediction_App">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=UCI_Heart_Disease_prediction_App&theme=tokyonight&border_color=00FFE6&border_radius=14"></a>
+<!-- Project 5 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=UCI_Heart_Disease_prediction_App&theme=tokyonight&border_color=00FFE6&border_radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=UCI_Heart_Disease_prediction_App&theme=default&border_radius=14">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=UCI_Heart_Disease_prediction_App&theme=default">
+</picture>
 
 </div>
 
 ---
 
-## 📊 My GitHub Stats (Animated)
+## 📊 My GitHub Stats (Auto Dark/Light)
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Habib555&show_icons=true&theme=react&hide_border=true&border_radius=14" />
+<!-- Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-Habib555&show_icons=true&theme=react&hide_border=true&border_radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-Habib555&show_icons=true&theme=default&hide_border=true&border_radius=14">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Habib555&show_icons=true&theme=default">
+</picture>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Habib555&theme=react&hide_border=true&border_radius=14" />
+<!-- Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Habib555&theme=react&hide_border=true&border_radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Habib555&theme=default&hide_border=true&border_radius=14">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Habib555&theme=default">
+</picture>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Habib555&theme=react-dark&area=true&hide_border=true&radius=14" />
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Habib555&theme=react-dark&area=true&hide_border=true&radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Habib555&theme=light&area=true&hide_border=true&radius=14">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Habib555&theme=light&area=true&hide_border=true">
+</picture>
 
 </div>
 
@@ -90,4 +144,3 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 </p>
 
 <h3 align="center">⚡ AI won't replace humans — but humans using AI will.</h3>
-
