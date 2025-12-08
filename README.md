@@ -18,7 +18,8 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 💠 **I specialize in:**  
 - 🤖 Machine Learning & Deep Learning  
 - 👁 Computer Vision  
-- 🔥 FastAPI + Streamlit Deployment  
+- 🔥 Full Stack Gen AI and agentic AI Developer
+- 🔥 FastAPI And Streamlit
 - 📊 EDA, Feature Engineering & Real-Time Dashboards  
 - ⚙ Productionizing ML, Agents, Model Serving  
 
