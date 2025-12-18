@@ -36,43 +36,54 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 ## 💎 Tech Stack - <span style="color: #00FF00;">My Toolkit</span>
 
-<!-- ================= CORE AGENTIC & LLM ================= -->
+<!-- ================= AGENTIC & GENERATIVE AI ================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,openai,huggingface,langchain&theme=dark" height="52"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-CrewAI%20%7C%20AutoGen%20%7C%20LangGraph-FF6600?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CrewAI-Agentic_AI-FF6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AutoGen-Multi_Agent-00C7B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-LLMs%20%7C%20RAG%20%7C%20Agents-6A5ACD?style=for-the-badge"/>
 </p>
 
-<!-- ================= DATA ANALYSIS & ML ================= -->
+<!-- ================= PROGRAMMING ================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn&theme=dark" height="52"/>
-  <!-- spacer to balance rows -->
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge"/>
+</p>
+
+<!-- ================= DATA ANALYSIS & MACHINE LEARNING ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analysis-Pandas%20%7C%20NumPy%20%7C%20Matplotlib%20%7C%20Seaborn-0A66C2?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-Scikit--Learn%20%7C%20Feature_Engineering-1F8ACB?style=for-the-badge"/>
 </p>
 
 <!-- ================= DEEP LEARNING & COMPUTER VISION ================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="52"/>
-  <!-- spacers -->
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-PyTorch%20%7C%20TensorFlow-EE4C2C?style=for-the-badge"/>
 </p>
 
-<!-- ================= TIME SERIES ANALYSIS ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Time_Series-ARIMA%20%7C%20LSTM%20%7C%20Prophet-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV%20%7C%20Image_Processing-5C3EE8?style=for-the-badge"/>
+</p>
+
+<!-- ================= TIME SERIES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Time_Series-ARIMA%20%7C%20LSTM%20%7C%20Prophet-2E8B57?style=for-the-badge"/>
 </p>
 
 <!-- ================= FRONTEND · BACKEND · AUTOMATION ================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=streamlit,fastapi,pydantic,n8n&theme=dark" height="52"/>
-  <!-- spacers -->
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
+  <img src="https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Pydantic-009688?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-n8n-0E76A8?style=for-the-badge"/>
 </p>
 
 
