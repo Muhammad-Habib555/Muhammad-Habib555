@@ -50,11 +50,16 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 <!-- ================= DATA ANALYSIS & ML ================= -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn&theme=dark" height="52"/>
+  <!-- spacer to balance rows -->
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
 </p>
 
 <!-- ================= DEEP LEARNING & COMPUTER VISION ================= -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="52"/>
+  <!-- spacers -->
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
 </p>
 
 <!-- ================= TIME SERIES ANALYSIS ================= -->
@@ -65,6 +70,9 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 <!-- ================= FRONTEND · BACKEND · AUTOMATION ================= -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=streamlit,fastapi,pydantic,n8n&theme=dark" height="52"/>
+  <!-- spacers -->
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" style="visibility:hidden"/>
 </p>
 
 
