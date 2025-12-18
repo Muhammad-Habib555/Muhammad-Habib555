@@ -76,6 +76,19 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
   <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=ML-App-Of-Two-Disease&theme=radical&border_color=00FF00&border_radius=14" />
 </a>
 
+<a href="https://github.com/Muhammad-Habib555/AI_text_and_image_generator">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=AI_text_and_image_generator&theme=radical&border_color=00FF00&border_radius=14" />
+</a>
+
+<a href="https://github.com/Muhammad-Habib555/Ai_powered_queiz_game">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=Ai_powered_queiz_game&theme=radical&border_color=00FF00&border_radius=14" />
+</a>
+
+<a href="https://github.com/Muhammad-Habib555/Multiple-Disease-prediction-APP">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Habib555&repo=Multiple-Disease-prediction-APP=radical&border_color=00FF00&border_radius=14" />
+</a>
+
+
 </div>
 
 <div style="width:100%; height:5px; background: linear-gradient(to right, #FF33AA, #FF6600, #00FFFF); border-radius:2px; margin:20px 0;"></div>
