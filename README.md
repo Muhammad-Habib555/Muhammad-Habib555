@@ -36,17 +36,23 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 ## 💎 Tech Stack - <span style="color: #00FF00;">My Toolkit</span>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,pydantic,dash,plotly&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,openai&theme=dark" height="55" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6600&width=900&center=true&vCenter=true&lines=✨+Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;💖+Generative+AI+%7C+Agents+%7C+LLMs;🚀+FastAPI+%2B+Streamlit+Deployments;💡+Data+Pipelines+%7C+EDA+%7C+Model+Serving;⭐+Always+Learning+%7C+Always+Building+The+Future" />
-</p>
+  <!-- Core ML / Data -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv&theme=dark" height="48"/>
 
-<div style="width:100%; height:5px; background: linear-gradient(to right, #FF33AA, #FF6600, #00FFFF); border-radius:2px; margin:20px 0;"></div>
+  <br/><br/>
+
+  <!-- Backend / Visualization -->
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,pydantic,dash,plotly&theme=dark" height="48"/>
+
+  <br/><br/>
+
+  <!-- Tools / Platform -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,openai&theme=dark" height="48"/>
+
+</div>
+
 
 ## 🏆 Featured Projects - <span style="color: #FFCC00;">Bright Portfolio</span>
 
