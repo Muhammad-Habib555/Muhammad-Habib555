@@ -52,17 +52,17 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn&theme=dark" height="52"/>
 </p>
 
-<!-- ================= DEEP LEARNING & CV ================= -->
+<!-- ================= DEEP LEARNING & COMPUTER VISION ================= -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="52"/>
 </p>
 
-<!-- ================= TIME SERIES & FORECASTING ================= -->
+<!-- ================= TIME SERIES ANALYSIS ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/Time_Series-ARIMA%20%7C%20LSTM%20%7C%20Prophet-0A66C2?style=for-the-badge"/>
 </p>
 
-<!-- ================= FRONTEND & BACKEND ================= -->
+<!-- ================= FRONTEND · BACKEND · AUTOMATION ================= -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=streamlit,fastapi,pydantic,n8n&theme=dark" height="52"/>
 </p>
