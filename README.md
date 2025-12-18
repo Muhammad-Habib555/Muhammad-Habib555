@@ -36,22 +36,23 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 ## 💎 Tech Stack - <span style="color: #00FF00;">My Toolkit</span>
 
-<div align="center">
+<p align="center">
+  <!-- Core Agentic + LLM -->
+  <img src="https://skillicons.dev/icons?i=python,openai,huggingface,langchain&theme=dark" height="52"/>
+</p>
 
-  <!-- Core ML / Data -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,opencv&theme=dark" height="48"/>
+<p align="center">
+  <!-- Agent Frameworks (Text Representation for Clarity) -->
+  <img src="https://img.shields.io/badge/CrewAI-Agentic_AI-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoGen-Multi_Agent-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-6A5ACD?style=for-the-badge"/>
+</p>
 
-  <br/><br/>
+<p align="center">
+  <!-- Deployment & Orchestration -->
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,pydantic,n8n&theme=dark" height="52"/>
+</p>
 
-  <!-- Backend / Visualization -->
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,pydantic,dash,plotly&theme=dark" height="48"/>
-
-  <br/><br/>
-
-  <!-- Tools / Platform -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,openai&theme=dark" height="48"/>
-
-</div>
 
 
 ## 🏆 Featured Projects - <span style="color: #FFCC00;">Bright Portfolio</span>
