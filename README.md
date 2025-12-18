@@ -36,21 +36,35 @@ I am an **AI & Machine Learning Engineer** focused on building **end-to-end prod
 
 ## 💎 Tech Stack - <span style="color: #00FF00;">My Toolkit</span>
 
+<!-- ================= CORE AGENTIC & LLM ================= -->
 <p align="center">
-  <!-- Core Agentic + LLM -->
   <img src="https://skillicons.dev/icons?i=python,openai,huggingface,langchain&theme=dark" height="52"/>
 </p>
 
 <p align="center">
-  <!-- Agent Frameworks (Text Representation for Clarity) -->
   <img src="https://img.shields.io/badge/CrewAI-Agentic_AI-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AutoGen-Multi_Agent-00C7B7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-6A5ACD?style=for-the-badge"/>
 </p>
 
+<!-- ================= DATA ANALYSIS & ML ================= -->
 <p align="center">
-  <!-- Deployment & Orchestration -->
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,pydantic,n8n&theme=dark" height="52"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn&theme=dark" height="52"/>
+</p>
+
+<!-- ================= DEEP LEARNING & CV ================= -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="52"/>
+</p>
+
+<!-- ================= TIME SERIES & FORECASTING ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Time_Series-ARIMA%20%7C%20LSTM%20%7C%20Prophet-0A66C2?style=for-the-badge"/>
+</p>
+
+<!-- ================= FRONTEND & BACKEND ================= -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=streamlit,fastapi,pydantic,n8n&theme=dark" height="52"/>
 </p>
 
 
